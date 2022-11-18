@@ -1,7 +1,0 @@
-{
-    "name": "Kongsberg Organization Workflow",
-    "description": "Kongsberg Organization CI starter workflow to check a coverage.",
-    "categories": [
-        "Python"
-    ]
-}
